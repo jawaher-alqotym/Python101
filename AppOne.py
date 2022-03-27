@@ -1,4 +1,5 @@
-#phone guide
+#phone guide... this is a mini project that Represents a phone book, so that it receives the phone number, and returns to us the name of the owner of the number.
+#Also it  allows the user to add a new user to the phone book.
 
 Phone_dictionary = {'Amal':'1111111111', 'Mohammed':'2222222222', 'Khadijah':'3333333333',
                     'Abdullah':'4444444444'}
